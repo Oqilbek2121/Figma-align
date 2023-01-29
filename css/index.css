@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container .box b{
+    background-color: #ADC9A6;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container .box1 .navbar {
+    background-color: #153C3C;
+}
+
+.container .box1 .navbar .container-fluid a {
+    color: white;
+}
+
+.container .box2 {
+    text-align: center;
+    margin-top: 70px;
+}
+
+.container .box3 {
+    margin-top: 80px;
+}
+
+.box4 {
+    margin-top: 150px;
+}
+
+.box4 .row .col .card {
+    background-color: #F2F8F8;
+    border: none;
+    width: 510px;
+    height: 613px;
+    border-radius: 12px;
+}
+
+.box4 .row .col .card img {
+    width: 398px;
+    height: 501px;
+    margin-left: 50px;
+}
+
+.box4 .row .col .card .card-body h4 {
+    margin-left: 50px;
+    margin-top: 18px;
+}
+
+.box4 .harf4 {
+    text-align: center;
+}
+
+.box4 .row {
+    margin-top: 100px;
+}
+
+.box5 {
+    margin-top: 150px;
+}
+
+.box5 .harf4 {
+    text-align: center;
+}
+
+.box5 .button {
+    display: flex;
+    justify-content: space-around;
+}
+
+.box5 .button .but .card {
+    background-color: #F2F8F8;
+    border: none;
+    margin: 20px;
+    width: 510px;
+    height: 120px;
+    border-radius: 12px;
+}
+
+.box5 .button .but .card .card-body {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.box5 .button {
+    margin-top: 100px;
+}
+
+
+.box6 {
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.box7 {
+    margin-top: 150px;
+}
